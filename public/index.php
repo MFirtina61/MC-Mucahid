@@ -52,7 +52,7 @@
         <section>
             <input type="search" id="searchInput" placeholder="Zoek artiest...">
             <div>
-                <button id="searchButton"><img src="/img/search.png" alt=""></button>
+                <button id="searchButton"><img src="/img/search2.png" alt=""></button>
             </div>
 
         </section>
